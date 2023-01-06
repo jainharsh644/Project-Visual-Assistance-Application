@@ -1,6 +1,6 @@
 # Android Application - Blind Assistant:
 
-<img src="https://cdn-images-1.medium.com/max/2600/1*gNcFEL1cpGpDC4vo1zUAWA.png" />
+<img src="[https://cdn-images-1.medium.com/max/2600/1*gNcFEL1cpGpDC4vo1zUAWA.png](https://github.com/jainharsh644/Visual-Assistance-App/blob/main/SystemArchitecture.png)" />
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-blue.svg) ![Java](https://img.shields.io/badge/Java-brightgreen.svg) ![Android Studio](https://img.shields.io/badge/Android%20Studio-orange.svg)
 
