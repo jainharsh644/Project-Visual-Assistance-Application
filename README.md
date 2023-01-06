@@ -17,7 +17,7 @@ The project is divided into the following two modules:
   <li>2. Text to Speech Conversion</li>
 </ol>
 
-<img src="https://github.com/jainharsh644/Visual-Assistance-App/blob/main/SystemArchitecture.png" />
+<img src="https://github.com/jainharsh644/Visual-Assistance-App/blob/main/SystemArchitecture.png />
 
 
 ## Please do ⭐ the repository, if it helped you in anyway.
