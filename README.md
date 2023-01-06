@@ -1,7 +1,5 @@
 # Android Application - Blind Assistant:
 
-<img src="[https://github.com/jainharsh644/Visual-Assistance-App/blob/main/SystemArchitecture.png](https://github.com/jainharsh644/Visual-Assistance-App/blob/main/SystemArchitecture.png)" />
-
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-blue.svg) ![Java](https://img.shields.io/badge/Java-brightgreen.svg) ![Android Studio](https://img.shields.io/badge/Android%20Studio-orange.svg)
 
 This Project consists of Code files which shows the implementation of an Android Application for Visually Impacted People.
@@ -12,6 +10,14 @@ This Project consists of Code files which shows the implementation of an Android
 <li>This study proposes a simple smartphone-based guiding system for solving the navigation problems for visually impaired people and achieving obstacle avoidance to enable visually impaired people to travel smoothly from a beginning point to a destination with greater awareness of their surroundings.</li>
 </ul>
 
+# Project Modules:
+The project is divided into the following two modules:
+<ol>
+  <li>1. Object Detection (Through Mobile Camera)</li>
+  <li>2. Text to Speech Conversion</li>
+</ol>
+
+<img src="https://github.com/jainharsh644/Visual-Assistance-App/blob/main/SystemArchitecture.png" />
 
 
 ## Please do ⭐ the repository, if it helped you in anyway.
