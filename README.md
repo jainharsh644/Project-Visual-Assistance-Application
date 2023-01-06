@@ -21,8 +21,9 @@ The project is divided into the following two modules:
   <li>2. Text to Speech Conversion</li>
 </ol>
 
-# Outputs:
+# Application Testing Outcomes (Indoor and Outdoor):
 
 <img src="https://github.com/jainharsh644/Visual-Assistance-App/blob/main/IndoorOutput.png" />
-<img src="https://github.com/jainharsh644/Visual-Assistance-App/blob/main/OutdoorOutput.png" />
+<img src="https://github.com/jainharsh644/Visual-Assistance-App/blob/main/Outdoor_Output.png" />
+
 ## Please do ⭐ the repository, if it helped you in anyway.
