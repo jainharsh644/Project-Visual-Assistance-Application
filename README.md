@@ -10,6 +10,10 @@ This Project consists of Code files which shows the implementation of an Android
 <li>This study proposes a simple smartphone-based guiding system for solving the navigation problems for visually impaired people and achieving obstacle avoidance to enable visually impaired people to travel smoothly from a beginning point to a destination with greater awareness of their surroundings.</li>
 </ul>
 
+# System Architecture:
+
+<img src="https://github.com/jainharsh644/Visual-Assistance-App/blob/main/Architecture.png" />
+
 # Project Modules:
 The project is divided into the following two modules:
 <ol>
@@ -17,7 +21,8 @@ The project is divided into the following two modules:
   <li>2. Text to Speech Conversion</li>
 </ol>
 
-<img src="https://github.com/jainharsh644/Visual-Assistance-App/blob/main/Architecture.png" />
+# Outputs:
 
-
+<img src="https://github.com/jainharsh644/Visual-Assistance-App/blob/main/IndoorOutput.png" />
+<img src="https://github.com/jainharsh644/Visual-Assistance-App/blob/main/OutdoorOutput.png" />
 ## Please do ⭐ the repository, if it helped you in anyway.
