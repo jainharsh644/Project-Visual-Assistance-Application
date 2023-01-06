@@ -16,10 +16,10 @@ This Project consists of Code files which shows the implementation of an Android
 
 # Project Modules:
 The project is divided into the following two modules:
-<ol>
-  <li>1. Object Detection (Through Mobile Camera)</li>
-  <li>2. Text to Speech Conversion</li>
-</ol>
+<ul>
+  <li>Object Detection (Through Mobile Camera)</li>
+  <li>Text to Speech Conversion</li>
+</ul>
 
 # Application Testing Outcomes (Indoor and Outdoor):
 
